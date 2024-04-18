@@ -1,0 +1,30 @@
+.logo-container {
+    width: 100%; /* Ancho del contenedor del logo */
+    height: 100%; /* Alto del contenedor del logo */
+    border: none;
+    padding: 0%; /* Espaciado interno del contenedor */
+    display: flex; /* Usa flexbox para centrar contenido */
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  body {
+    background-color: white; /* Color de fondo de la página */
+    font-family: 'Roboto', sans-serif; /* Fuente de texto */
+    margin: 0; /* Margen de la página */
+    padding: 0; /* Espaciado de la página */
+  }
+
+  .card {
+    width: 100%; /* Ancho de la tarjeta */
+    height: 100%; /* Alto de la tarjeta */
+    border: none; /* Borde de la tarjeta */
+    padding: 0%; /* Espaciado interno de la tarjeta */
+    display: flex; /* Usa flexbox para centrar contenido */
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    margin-left: auto;
+    margin-right: auto;
+  }

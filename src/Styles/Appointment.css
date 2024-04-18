@@ -1,0 +1,53 @@
+.tittle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.subtittle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+
+.button-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+  }
+  
+  .button-row {
+    display: inline-flex;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 5px;
+  }
+  
+  .custom-button {
+    margin-right: 10px; /* Ajusta el margen entre botones */
+    padding: 10px 20px;
+  }
+
+  .custom-button:last-child {
+    margin-right: 0;
+  }
+
+  .button {
+    font-size: 19px;
+    font-weight: bold;
+    width: 150%;
+    color: black !important;
+    background-color: #EDEAF0 !important;
+    border-color: #EDEAF0 !important;
+  }
+
+  .selected {
+    color: black !important;
+    background-color: #BDB6F6 !important;
+    border-color: #BDB6F6 !important;
+  }
+
+  
+
